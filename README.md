@@ -1,1 +1,2 @@
-![](/images\art-logo.gif)
+## Art Weinstein
+# ![](/images\art-logo.gif)
