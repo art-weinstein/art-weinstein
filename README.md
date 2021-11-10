@@ -1,1 +1,1 @@
-![](images\art-logo.gif)
+![](/images\art-logo.gif)
